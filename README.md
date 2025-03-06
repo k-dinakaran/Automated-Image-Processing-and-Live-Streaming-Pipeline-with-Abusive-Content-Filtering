@@ -1,1 +1,2 @@
 # Text to Image generator
+This project focuses on developing an AI-driven automated pipeline for image processing and live streaming. The system fetches images from various sources, applies transformations, filters out abusive content, and streams the final processed output to YouTube Live. The integration of OpenCV-based filtering enhances content safety, ensuring compliance with community guidelines.
